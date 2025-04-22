@@ -1,0 +1,36 @@
+.a1 {display: flex; font-size: 25px; align-items: center;}
+.img {width: 42px; height: 29px;}
+.a2 {width: 825px; display: flex; }
+.a3 {display: flex; justify-content: space-between; width: 825px;  align-items: center;}
+.get {background-color: #6B77E5; width: 184px; height: 40px; color: aliceblue; justify-content: center; display: flex; align-items: center;  }
+.a4 {display: flex; justify-content: center;  align-items: center;}
+.header {position: sticky; top: 0%; background-color: #F4F4F4; z-index: 1111;}
+.b1 {font-size: 18px; }
+.b2 {font-size: 40px; margin-top: 16px;}
+.d1 {display: flex; flex-direction: column; justify-content: center; align-items: center; }
+.d2 {width: 386px; height: 383px; background-color: #F4F4F4; display: flex; flex-direction: column; justify-content: top; align-items: center;  }
+.d3 {display: flex;  justify-content: space-between;    }
+
+.d4 { width: 1220px;  margin-left: 350px; }
+.t1 {font-size: 25px;}
+.t2 {font-size: 18px; vertical-align: middle;}
+.t3 {font-size: 18px; color: #6B77E5;}
+.h2 {width: 300px;  display: flex; flex-direction: column; justify-items: center; align-items: center; vertical-align: middle; text-align: center; }
+.px {width: 72px; height: 72px; border-radius: 50%; background-color: #40DDB6; align-content: center;}
+ .px11 {width: 72px; height: 72px; border-radius: 50%; background-color: #6B77E5; align-content: center; }
+.p22 {font-size: 22px;}
+.p222 {font-size: 40px;}
+.p2222 {font-size: 18px;}
+.position {position: relative; width: 100%; margin-top: 60px ;}
+/* .diver  { width: 511px; position:  absolute; text-align: center; top: 100px;margin-left: 705px} */
+.diver {width: 511px; position: absolute;top: 50%; left: 50%; transform: translate(-50%,-50%); text-align: center;}
+.play {width: 64.5px; height: 64.5px ; border-radius: 50%; margin: auto; background-color: #6B77E5; align-content: center; margin-top: 47px; }
+.piex {width: 1220px; height: 659px; margin-left: 348px; display: flex; justify-content: space-between; }
+.le1 {font-size: 18px;}
+.le2 {font-size: 40px;}
+.ere {text-align: center; align-content: center;}
+.posi1 { width: 386px; height: 532px; position: relative;}
+.posi2 {width: 341px; height: 114px; background-color: #FFFFFF; position: absolute; top: 75%; text-align: center; margin-left: 22px;  }
+.jj1 {font-size: 25px;}
+.jj2 { font-size: 18px}
+.marg {margin-top: 130px;}
